@@ -11,4 +11,6 @@ This is a part of the ineuron intership. This project will deal with the analysi
 ### The Better Large Canned Shrimp & High Top Dried Mushrooms are the highest selling products in domestic and international markets.
 ### Paracel Gigaplace & Pereras are the top customers who generated the highest revenue
 
+https://drive.google.com/file/d/1fK7DM6WZjh7lBANXlqdkDjojOMdRDqbs/view
+
 ![amazonlogo](https://github.com/user-attachments/assets/a8499bd5-aac1-4bda-ab5a-46ed8eb9b398)
